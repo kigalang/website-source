@@ -5,3 +5,13 @@ theme = "hallo-hugo"
 
 [Author]
     name = "Kathy"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/kigalang/"
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://www.linkedin.com/in/kathy-inkinen-galang-186a7818/"
