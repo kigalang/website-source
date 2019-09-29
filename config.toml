@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Kathy Inkinen-Galang"
-theme = "hallo"
+theme = "hallo-hugo"
+
+[Author]
+    name = "Kathy"
